@@ -1,0 +1,44 @@
+{
+    "1": {
+        "name": "SQL Injection",
+        "description": "A vulnerability that allows an attacker to interfere with the queries made to a database.",
+        "status": "Active",
+        "severity": "High",
+        "comments": []
+    },
+    "2": {
+        "name": "Cross-Site Scripting (XSS)",
+        "description": "A vulnerability that allows attackers to inject malicious scripts into content from otherwise trusted websites.",
+        "status": "Mitigated",
+        "severity": "Medium",
+        "comments": []
+    },
+    "3": {
+        "name": "Buffer Overflow",
+        "description": "A vulnerability that occurs when data overflows from one buffer to another, potentially allowing arbitrary code execution.",
+        "status": "Active",
+        "severity": "Critical",
+        "comments": []
+    },
+    "4": {
+        "name": "CVE-2024-12345: Remote Code Execution in Apache HTTP Server",
+        "description": "A vulnerability in Apache HTTP Server that allows remote attackers to execute arbitrary code via a crafted request to the server.",
+        "status": "Unpatched",
+        "severity": "Critical",
+        "comments": []
+    },
+    "5": {
+        "name": "CVE-2024-54321: Privilege Escalation in Linux Kernel",
+        "description": "A privilege escalation vulnerability in the Linux kernel that allows local attackers to gain root privileges through a race condition in the XYZ module.",
+        "status": "Active",
+        "severity": "High",
+        "comments": []
+    },
+    "6": {
+        "name": "CVE-2024-67890: Authentication Bypass in OpenSSL",
+        "description": "An authentication bypass vulnerability in OpenSSL versions prior to 3.0.10, allowing attackers to gain unauthorized access.",
+        "status": "Mitigated",
+        "severity": "Medium",
+        "comments": []
+    }
+}
