@@ -27,4 +27,4 @@ To get started, clone the repository:
 
 -bash
 git clone https://github.com/yourusername/VulnTrack.git
-cd CyberVulnManager
+cd VulnTrack
