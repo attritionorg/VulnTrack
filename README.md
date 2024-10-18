@@ -18,8 +18,8 @@ The project helps users view vulnerability details, manage status updates, and a
 - **SQL Injection**: A high-severity vulnerability allowing attackers to manipulate database queries.
 - **Cross-Site Scripting (XSS)**: A medium-severity vulnerability that lets attackers inject malicious scripts.
 - **Buffer Overflow**: A critical vulnerability that can lead to arbitrary code execution.
-- **CVE-2024-12345**: A critical remote code execution vulnerability in Apache HTTP Server.
-- **CVE-2024-54321**: A high-severity privilege escalation in the Linux kernel.
+- **CVE-2014-123456**: A critical remote code execution vulnerability in Apache HTTP Server.
+- **CVE-2014-456132**: A high-severity privilege escalation in the Linux kernel.
 
 ## Installation
 
